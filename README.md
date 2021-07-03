@@ -1,4 +1,13 @@
 # Image Processing Homework
+
+1. Görüntüde her bir piksel değerine ait görüntünün ayrı olarak kaydedecek kodu yazınız.
+    Örnek uygulama aşağıdaki gibi olacaktır. Teslimde ürettiğiniz sadece 5 farklı parlaklık
+    (0,75,140,200,255) değerinin görüntüsünü vermeniz yeterlidir.
+2. Görüntüde piksel tabanlı LUT tablosuna göre gaussian iyileştirme gerçekleştirme
+    yapacak kodu yazınız. Gerçekleştirilecek işleme ait denklem ve dağılım aşağıdadır.
+    Örnek uygulama da resimde verilmiştir.
+3. Verilen görüntü için histogram eşitleme gerçekleştirecek kodu yazınız. Örnek uygulama
+    resimde verilmiştir.
  
 # İçerik
 
